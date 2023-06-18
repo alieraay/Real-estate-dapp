@@ -2,5 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.9.1",
+    "hardhat": "^2.15.0"
+  }
 }
